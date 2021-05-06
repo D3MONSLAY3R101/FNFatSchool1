@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="upperBop.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upper Crowd Bob0000" x="0" y="0" width="2163" height="302" frameX="0" frameY="-17" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0001" x="0" y="0" width="2163" height="302" frameX="0" frameY="-17" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0002" x="0" y="302" width="2153" height="308" frameX="-5" frameY="-11" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0003" x="0" y="302" width="2153" height="308" frameX="-5" frameY="-11" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0004" x="0" y="610" width="2151" height="316" frameX="-6" frameY="-3" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0005" x="0" y="610" width="2151" height="316" frameX="-6" frameY="-3" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0006" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0007" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0008" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0009" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0010" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0011" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+	<SubTexture name="Upper Crowd Bob0012" x="0" y="926" width="2148" height="319" frameX="-7" frameY="0" frameWidth="2163" frameHeight="319"/>
+</TextureAtlas>
