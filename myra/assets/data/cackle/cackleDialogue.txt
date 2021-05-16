@@ -1,0 +1,25 @@
+:dad:...It's no use. Ugh, why did I have to be the odd one out again...
+:bf:beep!
+:dad:Ah- hello? Who was that?
+:bf:Beep skedap bep!
+:dad:Aww, well aren't you a cute little guy! Almost didn't see you down there, ehehe!
+:dad:Is there anything I could help you with, darling? I'm in the middle of something very important here...
+:bf:bebeep!
+::*You pointed to the odd book in the woman's hands.*
+:dad:Oh, were you curious about my book? I wouldn't touch it if I were you, darling.
+:dad:It's a highly potent spellbook. The academy grants them to magic users in training, like me!
+:dad:That's why I'm out here, to practice before exams tomorrow. But right now, I'm in a bit of trouble...
+:dad:You see, some of these spells require two people to work.
+:dad:Unfortunately for me, I don't have many friends to practice with...
+:dad:(...or any at all, for that matter...)
+:dad:If I can't pull off these spells before finals tomorrow, I'll have to turn in this book for good. No more magic.
+:dad:(I wonder if they'll at least let me keep the hat...)
+:bf:beep skedap bap!
+:dad:What was that, darling? I think I may have misheard you.
+:bf:*You once again pointed to the book.*
+:dad:You want to help me practice? That's so sweet of you, but...
+:dad:Have you ever performed any kind of magic before, darling?
+:bf:bebap skedoo bep
+:dad:I'm going to take that as a no. 
+:dad:In that case, darling, let me review the basics with you before we begin!
+:dad:Repeat after me. 3, 2...
