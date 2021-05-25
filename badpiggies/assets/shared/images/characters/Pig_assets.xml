@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pig_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pig Sing Note DOWN0000" x="0" y="0" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note DOWN0001" x="0" y="0" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note DOWN0002" x="398" y="0" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note DOWN0003" x="398" y="0" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note DOWN0004" x="398" y="0" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note LEFT0000" x="796" y="0" width="400" height="289"/>
+	<SubTexture name="Pig Sing Note LEFT0001" x="796" y="0" width="400" height="289"/>
+	<SubTexture name="Pig Sing Note LEFT0002" x="1196" y="0" width="400" height="289"/>
+	<SubTexture name="Pig Sing Note LEFT0003" x="1196" y="0" width="400" height="289"/>
+	<SubTexture name="Pig Sing Note LEFT0004" x="1196" y="0" width="400" height="289"/>
+	<SubTexture name="Pig Sing Note RIGHT0000" x="1596" y="0" width="397" height="288"/>
+	<SubTexture name="Pig Sing Note RIGHT0001" x="1596" y="0" width="397" height="288"/>
+	<SubTexture name="Pig Sing Note RIGHT0002" x="0" y="289" width="397" height="288"/>
+	<SubTexture name="Pig Sing Note RIGHT0003" x="0" y="289" width="397" height="288"/>
+	<SubTexture name="Pig Sing Note RIGHT0004" x="0" y="289" width="397" height="288"/>
+	<SubTexture name="Pig Sing Note UP0000" x="397" y="289" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note UP0001" x="397" y="289" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note UP0002" x="795" y="289" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note UP0003" x="795" y="289" width="398" height="288"/>
+	<SubTexture name="Pig Sing Note UP0004" x="795" y="289" width="398" height="288"/>
+	<SubTexture name="Pig idle dance0000" x="1193" y="289" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0001" x="1193" y="289" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0002" x="1594" y="289" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0003" x="1594" y="289" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0004" x="0" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0005" x="0" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0006" x="401" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0007" x="802" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0008" x="1203" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0009" x="1203" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0010" x="1604" y="647" width="401" height="358"/>
+	<SubTexture name="Pig idle dance0011" x="1604" y="647" width="401" height="358"/>
+</TextureAtlas>

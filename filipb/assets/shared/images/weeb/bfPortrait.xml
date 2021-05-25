@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPortrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boyf0000" x="477" y="136" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0001" x="477" y="136" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0002" x="477" y="136" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0003" x="1077" y="136" width="500" height="250" frameWidth="500" frameHeight="250 "frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0004" x="1077" y="136" width="500" height="250" frameWidth="500" frameHeight="250 "frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0005" x="1077" y="136" width="500" height="250" frameWidth="500" frameHeight="250 "frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0006" x="477" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0007" x="477" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0008" x="477" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0009" x="1077" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0010" x="1077" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0011" x="1077" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+	<SubTexture name="Boyf0012" x="1077" y="436" width="500" height="250" frameWidth="500" frameHeight="250" frameX="-700" frameY="-180"/>
+</TextureAtlas>
