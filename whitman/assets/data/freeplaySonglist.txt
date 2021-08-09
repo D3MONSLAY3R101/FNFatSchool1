@@ -21,3 +21,4 @@ Lo-Fight:whitty:7
 Overhead:whitty:7
 Ballistic:whittyCrazy:7
 Ballistic-Old:whittyCrazy:7
+Remorse:dad:1
