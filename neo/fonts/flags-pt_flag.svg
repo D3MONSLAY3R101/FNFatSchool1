@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html class="" lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Страница не найдена</title>
+        <link rel="preload" href="/bundle/fonts/TK3iWkUHHAIjg752HT8Ghe4.woff2" type="font/woff2" as="font" crossorigin />
+        <link rel="preload" href="/bundle/fonts/porto.woff2?6" type="font/woff2" as="font" crossorigin />
+    <link rel="preload" href="/bundle/fonts/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD5.woff2" type="font/woff2" as="font" crossorigin />
+    <link href="/bundle/app.css?v=2" rel="stylesheet" />
+<link rel="apple-touch-icon" sizes="180x180" href="/content/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/content/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/content/icon/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#111">
+<meta name="msapplication-TileImage" content="/content/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#33363c">
+<link rel="alternate" type="application/rss+xml" title="PlayMiniGames RSS" href="/rss" />
+    <link rel="canonical" href="https://playminigames.ru/Errors/Statuses/404" />
+    
+        <link rel="alternate" href="https://playminigames.ru/" hreflang="ru" />
+    <link rel="alternate" href="https://playminigames.ru/en" hreflang="en" />
+    <link rel="alternate" href="https://holajuegos.com/" hreflang="es" />
+    <link rel="alternate" href="https://playminigames.ru/pt" hreflang="pt" />
+    <link rel="alternate" href="https://playminigames.ru/fr" hreflang="fr" />
+    <link rel="alternate" href="https://playminigames.ru/de" hreflang="de" />
+    <link rel="alternate" href="https://playminigames.in/" hreflang="hi" />
+    <link rel="alternate" href="https://playminigames.nl/" hreflang="nl" />
+
+
+    <meta name="description" content="Сайт с прикольными играми как для детей так и для взрослых. Вас ждут гонки, стрелялки, ролевые игры. У нас есть флеш игры, html 5 игры, старые дос игры." />
+    <meta name="keywords" content="dos игры, игры гонки, флеш игры, html5 игры, приставочные игры, игры для девочек, игры на двоих, игры бесплатно, мини игры, старые игры" />
+    
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+    <div class="page-wrapper">
+        <header class="header">
+            <div class="header-top">
+                <div class="container">
+                    
+    <div class="header-left header-dropdowns">
+    <div class="header-dropdown language-dropdown">
+        <a class="language-label" aria-label="Язык" href="#"><img width="28" height="19" src="/content/images/flags/ru_flag.svg" alt="Язык">Язык</a>
+        <div class="header-menu" style="visibility: hidden; min-width: 107px">
+            <ul>
+                    <li>
+                        <a href="https://playminigames.ru/"><img width="28" height="19" src="/content/images/flags/ru_flag.svg" alt="Русский">Русский</a>
+                    </li>
+                    <li>
+                        <a href="https://playminigames.ru/en"><img width="28" height="19" src="/content/images/flags/en_flag.svg" alt="English">English</a>
+                    </li>
+                    <li>
+                        <a href="https://holajuegos.com/"><img width="28" height="19" src="/content/images/flags/es_flag.svg" alt="Español">Español</a>
+                    </li>
+                    <li>
+                        <a href="https://playminigames.ru/pt"><img width="28" height="19" src="/content/images/flags/pt_flag.svg" alt="Português">Português</a>
+                    </li>
+                    <li>
+                        <a href="https://playminigames.ru/fr"><img width="28" height="19" src="/content/images/flags/fr_flag.svg" alt="Français">Français</a>
+                    </li>
+                    <li>
+                        <a href="https://playminigames.ru/de"><img width="28" height="19" src="/content/images/flags/de_flag.svg" alt="Deutsche">Deutsche</a>
+                    </li>
+                    <li>
+                        <a href="https://playminigames.in/"><img width="28" height="19" src="/content/images/flags/hi_flag.svg" alt="हिन्दी">हिन्दी</a>
+                    </li>
+                    <li>
+                        <a href="https://playminigames.nl/"><img width="28" height="19" src="/content/images/flags/nl_flag.svg" alt="Nederland">Nederland</a>
+                    </li>
+                <li>
+                    <a href="/select-language">
+                        Подробнее...
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="header-right">
+        <a rel="nofollow" title="Мои игры(Избранное)" id="mygames" href="/mygames"><i class="icon-star"></i>Мои игры(Избранное)</a> &nbsp;&nbsp;|&nbsp;
+        <a title="Добавить в закладки эту страницу" id="bookmarkme" onclick="site.AddBookmark('Страница не найдена', 'https://playminigames.ru/Errors/Statuses/404')" href="#"><i class="icon-tag"></i></a>
+    <div class="header-dropdown login-dropdown">
+        <div class="header-menu">
+            <ul>
+                    <li><a href="/account/logon">Войти</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var bookmarkmeEl = $('#bookmarkme');
+        bookmarkmeEl.click(function () {
+            if (document.all) {
+                window.external.addFavorite(location.href, 'Страница не найдена');
+            }
+            if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
+                window.sidebar.addPanel(document.title, window.location.href, '');
+            } else if (window.external && ('AddFavorite' in window.external)) { // IE Favorite
+                window.external.AddFavorite(location.href, document.title);
+            } else if (window.opera && window.print) { // Opera Hotlist
+                this.title = document.title;
+                return true;
+            } else { // webkit - safari/chrome
+                var message = 'Нажмите' + ' ' + (navigator.userAgent.toLowerCase().indexOf('mac') != -1 ? 'Command/Cmd' : 'CTRL') + ' + D - ' + 'Добавить в закладки эту страницу' + '.';
+                SiteDialog.alert(message);
+            }
+        });
+    });
+</script>
+
+                </div>
+            </div>
+            <div class="header-middle sticky-header">
+    <div class="container">
+        <div class="header-left">
+            <a title="PlayMiniGames" href="/" class="logo">
+                <img height="48" width="48" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQflAhgBMwMJkFI8AAAFVUlEQVRYw7XXbYxUZxkG4Gu+dlkGurBld2EsIiqgS9TiwUKxrQFpaPxIjfWr1aqpP5pSg1gN1ppKbIom1aAS0qbYH9iEtFRtTLXE4keqFLHVqRJoATcr1LIMBRaXZTfLzM7u8ccM43ztsotw/5iTOe/z3Pf73u95n/OciEuOgA7bvNPD7nMuehnoudXVGn3KHC65ABIWFq/xyyPQagHocfqSCwREfc48sMsp4peYPu4W90igz3ZD4f8rEEBERFRc0tvc4ZNawC+9yMsXKxAQ1eLNOnRo16RRUrvZWkTAXz1ogIuyKCDhXb7gBldplqgJGLHbGp2kKepNzJJZ1vm0mXVzh3XbaovuAv0EBQJYYLPlYqXZnpOVNySnz0G/8Wdd8ulSzkQtmmWzlUXqY/7o9444I2dIVr+zsudnfhECAXFftwKc8YifOhxmI1WE1ZjYCub7hCjO+KptculxpIz7JAdws9lgy3jpJ1YqGiwVQY/t46WvY1FQoJplpmEnHJcrbVvCFeANR8tiG83UJiLjuCE1OxKvoY9aZI3rtAid9oKN9gVhGga94FpRzzpdjI1Y5B7LTMcpf7LJvmCkUiJSRT/Jnb5WdLqALt/yC/m0gGbXi9rlPxEhcbf7treUxR7xXY/LpusLBCStd7fJVavs8YBHK9MCmqy1zrSq2H4/8JDB/8XGylIa3G+tppp9muwGSX9PDaZkEEjR6gFrTa3zICyR9VJqOFMpEBDxJfdL1n0UGixxjR69KamEFjfa6OMm1Y1NeJ8u+wuTKVoUFH5+XuFnLfq85qSINnNMGTOy0y32FZ6oGKSY6keWlgKGZZzWKytZtkuN2s01V5uGCrqjttqlvfiigSs12ymXKawggM96tMyek271T1znsZotr0aP2z0ntMQTZQ70u82vSBdPcou7KtwfdszrXndc6EI4aLcRobS9ZXen+EphRdEAVlpUkRSpuo6GIecki89dg6ScodLYUksIxFI02VBslUJ77PaqvXY6i6TpDtlvsul16Lvca5N+7/BvTT6j14N+Z572omDcs/KRgIV2ShWt+Xz4ZCQulBciWiwlj7ijhn7QFz2FBg9ZJbTHWmfxQU8Vt/uYlQ7EcZOZpbR8ZCSdK/0bkQsKwrU46xXSgpy/WS1hs7PgVSeLAm0CB+Im+UBZ0Y4SxDAiRKQ4Uq+oT7XAKwEJix0TWixpAPPNKEbErfKzuFZvL6Nf42Oien1HNxZaZ5LQ4joCTb6n2X6rvGa5vA+71w6zfdOVpZj3aosESz2jtSr5DcsdwArPjFI8CsjK6fIhGUz1tKViFbXspI/GddQpWedxoVPQqNFAoYNzTn9NAZniqqiOqoNfsGqGVq2lRnAsLHDNCLzbe2rGEmbGzamzhdNtlRWaMkrFLMcMW6I7DVlZp1TGpOJ162LcW6vu5J1xSq8BTDHNDM2ld8lcd44iHjEtXqd5rUafPZ6w1wkD8khIane12yy5QNlmUlzPmAF5z/u+v+ir6Bd6g24ve9oy67x/jOYtdDyWSlkxakivDe6zTzYtUzGQkZE6p9MOQxZpHCU/67FYatDNmusOZ6z1E/3V5BUiA3brdu0opyXjh1GdXqo7eNRdnjQ0dgeXJudxXx5lDr/VGUvl9fhITS9x1Gq/NnLhBjEjFTroiOtrDmyPbzgcS9HtTRZXHKnD7rZjPPRlEv+yrMLqYT+2zUgsIzUsbZ75RYkRL1rtD8LxtrdFiUP+YWHpw2rYduv1p8VIMeB5g9oMOmSj9YVKPxFkpEKHPeeEafK6bbLBKTLnjQmIa9WoT+94ralFQNR0Vxh0qvw77bLiv9Pwm+WIDWU/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTAyLTI0VDAxOjUxOjAzKzAzOjAwD1NzCQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wMi0yNFQwMTo1MTowMyswMzowMH4Oy7UAAABGdEVYdHNvZnR3YXJlAEltYWdlTWFnaWNrIDYuNy44LTkgMjAxNC0wNS0xMiBRMTYgaHR0cDovL3d3dy5pbWFnZW1hZ2ljay5vcmfchu0AAAAAGHRFWHRUaHVtYjo6RG9jdW1lbnQ6OlBhZ2VzADGn/7svAAAAGHRFWHRUaHVtYjo6SW1hZ2U6OmhlaWdodAAxOTIPAHKFAAAAF3RFWHRUaHVtYjo6SW1hZ2U6OldpZHRoADE5MtOsIQgAAAAZdEVYdFRodW1iOjpNaW1ldHlwZQBpbWFnZS9wbmc/slZOAAAAF3RFWHRUaHVtYjo6TVRpbWUAMTQ4Mjk0MDUzMeDtC88AAAAPdEVYdFRodW1iOjpTaXplADBCQpSiPuwAAABWdEVYdFRodW1iOjpVUkkAZmlsZTovLy9tbnRsb2cvZmF2aWNvbnMvMjAxNi0xMi0yOC9lNWMzYTI1YzU0ZTg4NTc0M2YwOGYzNmE5MWY0OTdhZi5pY28ucG5n+mm2lgAAAABJRU5ErkJggg==" alt="PlayMiniGames" />
+                <span class="logo-text">
+                    PlayMiniGames
+                </span>
+            </a>
+            <nav class="main-nav">
+                <ul class="menu sf-arrows">
+                        <li class="gametype-top-menu-mmo "><a title="MMO Игры" href="/games/mmo">MMO</a></li>
+                        <li class="gametype-top-menu-html5 "><a title="Html 5 Игры" href="/games/html5">Html 5</a></li>
+                        <li class="gametype-top-menu-io "><a title=".io Игры" href="/games/io">.io</a></li>
+                        <li class="gametype-top-menu-swf "><a title="Flash Игры" href="/games/flash">Flash</a></li>
+                        <li class="gametype-top-menu-gen "><a title="Sega Игры" href="/games/sega">Sega</a></li>
+                        <li class="gametype-top-menu-zip "><a title="Dos Игры" href="/games/dos">Dos</a></li>
+                        <li class="gametype-top-menu-windows "><a title="Windows Игры" href="/games/windows">Windows</a></li>
+                        <li class="gametype-top-menu-windows3x "><a title="Windows 3.x Игры" href="/games/windows3x">Windows 3.x</a></li>
+                        <li class="gametype-top-menu-vr "><a title="VR Игры" href="/games/vr">VR</a></li>
+                    <li ><a title="Новости, полезная информация о играх, сайте" href="/news">Статьи</a></li>
+                    <li ><a title="Узнайте, для чего создан сайт. Его возможности, функции. Помощь по сайту." href="/info">О сайте</a></li>
+                </ul>
+            </nav>
+            <div class="header-search">
+                <link itemprop="url" href="https://playminigames.ru/Errors/Statuses/404" />
+                <a href="#" class="search-toggle" title="Поиск" role="button"><i class="icon-search"></i></a>
+                <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="/" method="GET">
+                    <meta itemprop="target" content="https://playminigames.ru/?SearchString={SearchString}" />
+                    <div class="header-search-wrapper">
+                        <input itemprop="query-input" data-autocomplete-onselect-url="/" data-autocomplete-url="/common/autocomplete" data-itemscount="10" type="search" class="form-control" name="SearchString" id="q" placeholder="Поиск" required>
+                        <button data-apply="1" class="btn" title="Поиск" type="submit"><i class="icon-search"></i></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="header-right">
+            <button class="mobile-menu-toggler" type="button">
+                <i class="icon-menu"></i>
+            </button>
+        </div>
+    </div>
+</div>
+        </header>
+        <main class="main">
+            <nav aria-label="breadcrumb" class="breadcrumb-nav">
+                <div class="container">
+                    
+    <ol class="breadcrumb" itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" title="Главная" href="/">
+                    <span itemprop="name">
+                        Главная
+                    </span>
+                </a>
+            <meta itemprop="position" content="1">
+        </li>
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" class="active" aria-current="page" href="javascript:void(0)" title="Страница не найдена">
+                    <span itemprop="name">
+                        Страница не найдена
+                    </span>
+                </a>
+            <meta itemprop="position" content="2">
+        </li>
+</ol>
+
+                </div>
+            </nav>
+            <div class="container container-main">
+                    <div style="left: -172px" class="sideDetailsAdsStyle">
+<div>
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-8011085858983601"
+         data-ad-slot="3095928637"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+                    </div>
+                    <div style="right: -172px" class="sideDetailsAdsStyle">
+<div>
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-8011085858983601"
+         data-ad-slot="4189518456"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+                    </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <span>
+<script>
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter38899590 = new Ya.Metrika({
+                    id: 38899590,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true
+                });
+            } catch (e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<span><noscript><img src="https://mc.yandex.ru/watch/38899590" style="position:absolute; left:-9999px;" alt="" /></noscript></span>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-82045934-1', 'auto');
+    ga('send', 'pageview');
+</script>
+</span>
+    <script src="/bundle/app.js?v=2"></script>
+
+                        <style>
+    .div-404 {
+        background-image: url('/content/forsite/images/404.png');
+        min-height: 400px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+</style>
+<h1 style="text-align:center">Страница не найдена:(</h1>
+<div class="col-xs-12">
+    <div class="div-404">
+    </div>
+    <p style="font-size:18px;text-align:center">Невозможно найти страницу:playminigames.ru/bundle//content/images/flags/pt_flag.svg</p>
+        <div class="buttons text-center"><a class="btn btn-primary btn-lg" href="/">Главная</a> </div>
+    <h3>Также, возможно это вас заинтересует: </h3>
+    <section class="content content-with-sidebar related">
+        <div class="row row-sm">
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Commander Keen 10: Mirror Menace / Командир Кин 10: Зеркальная угроза" href="/game/commander-keen-10-mirror-menace-komandir-kin-10-zerkalnaya-ugroza">
+                            <img title="Commander Keen 10: Mirror Menace / Командир Кин 10: Зеркальная угроза" alt="Commander Keen 10: Mirror Menace / Командир Кин 10: Зеркальная угроза" class="b-lazy loading" data-src="/content/gameimagecontent/hqdefault_dfd5ddef-dbf9-422b-9954-598117fc6691.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Commander Keen 10: Mirror Menace / Командир Кин 10: Зеркальная угроза
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/exocraftio/1/exocraftio-180x111.mp4 aria-label="ExoCraft / ЕхоКрафт" href="/game/exocraft-ekhokraft">
+                            <img title="ExoCraft / ЕхоКрафт" alt="ExoCraft / ЕхоКрафт" class="b-lazy loading" data-src="/content/gameimagecontent/html5_exocraft1_d7f30524677a4d78af30d58ee8844345.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                ExoCraft / ЕхоКрафт
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Albion / Альбион" href="/game/albion-albion">
+                            <img title="Albion / Альбион" alt="Albion / Альбион" class="b-lazy loading" data-src="/content/gameimagecontent/albion_a14dab10-f6a0-4940-a7a3-76e8190743be.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Albion / Альбион
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/n00bio.mp4 aria-label="Noob / Нуб" href="/game/noob-nub">
+                            <img title="Noob / Нуб" alt="Noob / Нуб" class="b-lazy loading" data-src="/content/gameimagecontent/html5_noob_73cab8c631674569aafb5860dc4de053.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Noob / Нуб
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/fishing-io/1/fishing-io-thumbnail.mp4 aria-label="Fishing io" href="/game/fishing-io">
+                            <img title="Fishing io" alt="Fishing io" class="b-lazy loading" data-src="/content/gameimagecontent/io_fishingio_0acf97bf1afb4e1aa575aefe75e07995.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Fishing io
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://www.retrogames.cc/video/nes/tiny-toon-adventures-2-trouble-in-wackyland-usa.mp4 aria-label="Tiny Toon 2" href="/game/tiny-toon-2">
+                            <img title="Tiny Toon 2" alt="Tiny Toon 2" class="b-lazy loading" data-src="/content/gameimagecontent/_tnytoon2_19fe5442-8abe-4de4-a8af-dbd596267a04.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Tiny Toon 2
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Low G Man" href="/game/low-g-man">
+                            <img title="Low G Man" alt="Low G Man" class="b-lazy loading" data-src="/content/gameimagecontent/lowgman_78fbd37d-2a0e-452c-a620-72b28e7e5632.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Low G Man
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/pixel-survive-western/1/pixel-survive-western-thumbnail.mp4 aria-label="Pixel Survive Western" href="/game/pixel-survive-western">
+                            <img title="Pixel Survive Western" alt="Pixel Survive Western" class="b-lazy loading" data-src="/content/gameimagecontent/html5_PixelSurviveWestern_b594d6461f4149918f68610a8e945b03.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Pixel Survive Western
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="FNF: Manifest but Every Turn a Different Cover is Used" href="/game/fnf-manifest-but-every-turn-a-different-cover-is-used">
+                            <img title="FNF: Manifest but Every Turn a Different Cover is Used" alt="FNF: Manifest but Every Turn a Different Cover is Used" class="b-lazy loading" data-src="/content/gameimagecontent/html5_FnfManifestDifferentCover_945fe437cb8448d0b6577e458f233f02.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                FNF: Manifest but Every Turn a Different Cover is Used
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/light-speed-runner/1/light-speed-runner-thumbnail.mp4 aria-label="Light Speed Runner / Бегун скорости света" href="/game/light-speed-runner-begun-skorosti-sveta">
+                            <img title="Light Speed Runner / Бегун скорости света" alt="Light Speed Runner / Бегун скорости света" class="b-lazy loading" data-src="/content/gameimagecontent/html5_LightSpeedRunner_9a9d7d20c20a42e196ff87219eedf086.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Light Speed Runner / Бегун скорости света
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/duck-life-battle/1/duck-life-battle-180x111.mp4 aria-label="Duck Life: Battle (Утиная Жизнь: Битва)" href="/game/duck-life-battle-utinaya-zhizn-bitva">
+                            <img title="Duck Life: Battle (Утиная Жизнь: Битва)" alt="Duck Life: Battle (Утиная Жизнь: Битва)" class="b-lazy loading" data-src="/content/gameimagecontent/html5_DuckLifeBattle_56099163e88749b7aaadbdd50c89b7c8.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Duck Life: Battle (Утиная Жизнь: Битва)
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/sea-ride/1/sea-ride-thumbnail.mp4 aria-label="Searide io" href="/game/searide-io">
+                            <img title="Searide io" alt="Searide io" class="b-lazy loading" data-src="/content/gameimagecontent/io_Searideio_b2ab4b3df6e84a3ba404491342be7848.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Searide io
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://www.retrogames.cc/video/nes/home-alone-usa.mp4 aria-label="Один дома" href="/game/odin-doma">
+                            <img title="Один дома" alt="Один дома" class="b-lazy loading" data-src="/content/gameimagecontent/oneathome_bec5c55d-6485-4f5a-b034-75cca6e86e08.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Один дома
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/cleanup-io/1/cleanup-io-180x111.mp4 aria-label="Cleanup io (Уборка ио)" href="/game/cleanup-io-uborka-io">
+                            <img title="Cleanup io (Уборка ио)" alt="Cleanup io (Уборка ио)" class="b-lazy loading" data-src="/content/gameimagecontent/html5_CleanupIo_c1e4ba500bb34c959404eddc08cba4e2.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Cleanup io (Уборка ио)
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Asteroid Blast / Взрыв астероидов" href="/game/asteroid-blast-vzryv-asteroidov">
+                            <img title="Asteroid Blast / Взрыв астероидов" alt="Asteroid Blast / Взрыв астероидов" class="b-lazy loading" data-src="/content/gameimagecontent/html5_teaser@2x_94134330afc54a63af8dd3be57a37455.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Asteroid Blast / Взрыв астероидов
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/dizzytroopers-io/1/dizzytroopers-io-thumbnail.mp4 aria-label="Dizzy troopers io" href="/game/dizzy-troopers-io">
+                            <img title="Dizzy troopers io" alt="Dizzy troopers io" class="b-lazy loading" data-src="/content/gameimagecontent/io_dizzytroopers_io_f87873534d4947148caecff2120e2432.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Dizzy troopers io
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Дизайн моей юбки со складками" href="/game/dizayn-moey-yubki-so-skladkami">
+                            <img title="Дизайн моей юбки со складками" alt="Дизайн моей юбки со складками" class="b-lazy loading" data-src="/content/gameimagecontent/html5_Designmypleatedskirt_28f65611a20e4c278449bd11b4ccb352.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Дизайн моей юбки со складками
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/grindcraft-remastered.mp4 aria-label="Grindcraft Remastered" href="/game/grindcraft-remastered">
+                            <img title="Grindcraft Remastered" alt="Grindcraft Remastered" class="b-lazy loading" data-src="/content/gameimagecontent/html5_GrindcraftRemastered_e4dcf3d61caf41a98ea9e1e112612051.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Grindcraft Remastered
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Friday Night Funkin&#x27; vs Jeb" href="/game/friday-night-funkin-vs-jeb">
+                            <img title="Friday Night Funkin&#x27; vs Jeb" alt="Friday Night Funkin&#x27; vs Jeb" class="b-lazy loading" data-src="/content/gameimagecontent/html5_FnfJeb_f75b898da77a47958726b9c9aef26c7e.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Friday Night Funkin&#x27; vs Jeb
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="FNF vs The Bop It Toy" href="/game/fnf-vs-the-bop-it-toy">
+                            <img title="FNF vs The Bop It Toy" alt="FNF vs The Bop It Toy" class="b-lazy loading" data-src="/content/gameimagecontent/html5_FnfTheBopItToy_56a4ad218f524a6d91e30da8d6718b47.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                FNF vs The Bop It Toy
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a data-preview=https://videos.crazygames.com/wordmeister/1/wordmeister-thumbnail.mp4 aria-label="Wordmeister" href="/game/wordmeister">
+                            <img title="Wordmeister" alt="Wordmeister" class="b-lazy loading" data-src="/content/gameimagecontent/html5_Wordmeister_2244bc4a1c6e417f9f0bfaec6c843bb8.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Wordmeister
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="FNF: Zardy Foolhardy Mod Pack" href="/game/fnf-zardy-foolhardy-mod-pack">
+                            <img title="FNF: Zardy Foolhardy Mod Pack" alt="FNF: Zardy Foolhardy Mod Pack" class="b-lazy loading" data-src="/content/gameimagecontent/html5_FnfZardyFoolhardy_f6dbbbf66c424b0bbba9b06b5f299c73.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                FNF: Zardy Foolhardy Mod Pack
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Solitaire 0-21" href="/game/solitaire-0-21">
+                            <img title="Solitaire 0-21" alt="Solitaire 0-21" class="b-lazy loading" data-src="/content/gameimagecontent/html5_Solitaire021_67df9d2db17d4a55b08cf97583e3aecf.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Solitaire 0-21
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                <div class="product-default">
+                    <figure>
+                        <a  aria-label="Eye of the Beholder 2: The Legend of Darkmoon /  Глаз Смотрящего 2: Легенда о Темной Луне" href="/game/eye-of-the-beholder-2-the-legend-of-darkmoon-glaz-smotryashchego-2-legenda-o-temnoy-lune">
+                            <img title="Eye of the Beholder 2: The Legend of Darkmoon /  Глаз Смотрящего 2: Легенда о Темной Луне" alt="Eye of the Beholder 2: The Legend of Darkmoon /  Глаз Смотрящего 2: Легенда о Темной Луне" class="b-lazy loading" data-src="/content/gameimagecontent/beholder2_de1033d7-9014-4f90-ba49-c55fdb3ce3b6.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                            <h2 class="game-title">
+                                Eye of the Beholder 2: The Legend of Darkmoon /  Глаз Смотрящего 2: Легенда о Темной Луне
+                            </h2>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+</div>
+    </section>
+    <!--                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                -->
+</div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+    <div class="footer-middle">
+        <div class="container">
+            <div class="footer-ribbon">
+                Get in touch
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="widget">
+                                <h4 class="widget-title">Свяжитесь с нами</h4>
+                                <ul class="links">
+                                    <li>
+                                        <div>
+    Если вас интересуют какие-то вопросы, вы можете связатся с нами. Отправить письмо на наш Email: <a href="mailto:khmmarket@gmail.com" style="text-decoration:underline;color:white">khmmarket@gmail.com</a>
+</div>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="widget">
+                                <h4 class="widget-title">Полезные ссылки</h4>
+                                <ul class="links">
+                                    <li><a title="Условия и положения;" href="/terms-and-conditions">Условия и положения</a></li>
+                                    <li><a title="Политика конфиденциальности;" href="/privacy-policy">Политика конфиденциальности</a></li>
+                                    <li><a title="Предложить новую игру" href="/info/offergame">Предложить новую игру</a></li>
+                                    <li><a title="Загрузить новую игру" href="/info/uploadgame">Загрузить новую игру</a></li>
+                                    <li><a title="Книга жалоб" href="/info/complain">Книга жалоб</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="widget">
+                                <h4 class="widget-title">Какие игры интереснее для вас?</h4>
+                                <div class="col-md-12">
+                                    <div class="row">
+                                            <div class="col-6 mx-auto">
+                                                <a title="Html 5 Игры" href="/games/html5">Html 5</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="Flash Игры" href="/games/flash">Flash</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="Sega Игры" href="/games/sega">Sega</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="Dos Игры" href="/games/dos">Dos</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="Windows Игры" href="/games/windows">Windows</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="Windows 3.x Игры" href="/games/windows3x">Windows 3.x</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="MMO Игры" href="/games/mmo">MMO</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title=".io Игры" href="/games/io">.io</a>
+                                            </div>
+                                            <div class="col-6 mx-auto">
+                                                <a title="VR Игры" href="/games/vr">VR</a>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="footer-bottom">
+            <p class="footer-copyright"><span>&copy; <a style="color: white" href="/">PlayMiniGames  2016-2022</a> | KMiniGamesCMS <span style="font-size: 10px">v.2.3.12.12</span> | Все права защищены</span></p>
+            <div class="social-icons">
+        <span>
+            <a class="sociallink-footer" rel="nofollow noopener" aria-label="Facebook" target="_blank" href="https://www.facebook.com/playminigames/">
+                <img width="29" height="29" class="socialbutton-footer morph" alt="Facebook" src="/content/socialbuttons/facebook.png" />
+            </a>
+        </span>
+        <span>
+            <a class="sociallink-footer" rel="nofollow noopener" aria-label="VK" target="_blank" href="https://vk.com/playminigamesss">
+                <img width="29" height="29" class="socialbutton-footer morph" alt="VK" src="/content/socialbuttons/vk.png" />
+            </a>
+        </span>
+        <span>
+            <a class="sociallink-footer" rel="nofollow noopener" aria-label="Twitter" target="_blank" href="https://twitter.com/playminigamesss">
+                <img width="29" height="29" class="socialbutton-footer morph" alt="Twitter" src="/content/socialbuttons/twitter.png" />
+            </a>
+        </span>
+        <span>
+            <a class="sociallink-footer" rel="nofollow noopener" aria-label="Instagram" target="_blank" href="https://www.instagram.com/playminigamesss/">
+                <img width="29" height="29" class="socialbutton-footer morph" alt="Instagram" src="/content/socialbuttons/instagram.png" />
+            </a>
+        </span>
+        <span>
+            <a class="sociallink-footer" rel="nofollow noopener" aria-label="YouTube" target="_blank" href="https://www.youtube.com/channel/UCrCo0ba4ethCPIz9J4htoPw">
+                <img width="29" height="29" class="socialbutton-footer morph" alt="YouTube" src="/content/socialbuttons/youtube.png" />
+            </a>
+        </span>
+</div>
+<script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "PlayMiniGames",
+    "email" : "khmmarket@gmail.com",
+    "url" : "https://playminigames.ru/",
+    "logo": "/content/icon/ms-icon-310x310.png",
+    "sameAs" : [
+        "https://vk.com/playminigamesss",
+        "https://www.facebook.com/playminigames/",
+        "https://twitter.com/playminigamesss",
+        "https://www.youtube.com/channel/UCrCo0ba4ethCPIz9J4htoPw"
+    ]
+    }
+</script>
+            <div style="display:none">
+                /content/images/loading_big.gif
+            </div>
+        </div>
+    </div>
+</footer>
+    </div>
+    <div class="mobile-menu-overlay"></div><!-- End .mobil-menu-overlay -->
+<div class="mobile-menu-container">
+    <div class="mobile-menu-wrapper">
+        <span class="mobile-menu-close"><i class="icon-cancel"></i></span>
+        <nav class="mobile-nav">
+            <ul class="mobile-menu">
+                    <li class="gametype-top-menu-mmo "><a title="MMO Игры" href="/games/mmo">MMO</a></li>
+                    <li class="gametype-top-menu-html5 "><a title="Html 5 Игры" href="/games/html5">Html 5</a></li>
+                    <li class="gametype-top-menu-io "><a title=".io Игры" href="/games/io">.io</a></li>
+                    <li class="gametype-top-menu-swf "><a title="Flash Игры" href="/games/flash">Flash</a></li>
+                    <li class="gametype-top-menu-gen "><a title="Sega Игры" href="/games/sega">Sega</a></li>
+                    <li class="gametype-top-menu-zip "><a title="Dos Игры" href="/games/dos">Dos</a></li>
+                    <li class="gametype-top-menu-windows "><a title="Windows Игры" href="/games/windows">Windows</a></li>
+                    <li class="gametype-top-menu-windows3x "><a title="Windows 3.x Игры" href="/games/windows3x">Windows 3.x</a></li>
+                    <li class="gametype-top-menu-vr "><a title="VR Игры" href="/games/vr">VR</a></li>
+                <li ><a title="Новости, полезная информация о играх, сайте" href="/news">Статьи</a></li>
+                <li ><a title="Узнайте, для чего создан сайт. Его возможности, функции. Помощь по сайту." href="/info">О сайте</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+                <a class="social-icon" rel="nofollow noopener" aria-label="Facebook" target="_blank" href="https://www.facebook.com/playminigames/">
+                    <i class="icon-facebook"></i>
+                </a>
+                <span>
+                    <a class="social-icon" rel="nofollow noopener" aria-label="Twitter" target="_blank" href="https://twitter.com/playminigamesss">
+                        <i class="icon-twitter"></i>
+                    </a>
+                </span>
+                <span>
+                    <a class="social-icon" rel="nofollow noopener" aria-label="Instagram" target="_blank" href="https://www.instagram.com/playminigamesss/">
+                        <i class="icon-instagram"></i>
+                    </a>
+                </span>
+        </div>
+    </div>
+</div>
+    <a id="scroll-top" href="#top" title="Top" role="button"><i class="icon-angle-up"></i></a>
+</body>
+</html>
